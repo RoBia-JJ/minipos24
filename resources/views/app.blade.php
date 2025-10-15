@@ -12,6 +12,8 @@
     <h1>Laravel12 Page</h1>
     <hr>
     <div id="app"></div>
+
+    
     
 
 @vite('resources/js/app.js');
